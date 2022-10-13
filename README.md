@@ -17,3 +17,19 @@ A simple GUI application intended to get questions and respective answers from t
 ## What's its purpose?
 
 Just to show off my Python "Tkinter" GUI skills using the object-oriented programming model.
+
+## How to run it?
+
+- Install [Python version 3](https://www.python.org/downloads);
+- Install the non-included python libraries:
+
+```shell
+pip3 install requests
+python -m pip install requests
+```
+
+- Run:
+
+```shell
+python3 main.py
+```
