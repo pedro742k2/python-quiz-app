@@ -25,7 +25,6 @@ Just to show off my Python "Tkinter" GUI skills using the object-oriented progra
 
 ```shell
 pip3 install requests
-python -m pip install requests
 ```
 
 - Run:
